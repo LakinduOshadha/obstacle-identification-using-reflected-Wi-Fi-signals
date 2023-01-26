@@ -95,12 +95,12 @@ Accuracy:
 
 Accuracy: 
 
-![](media/image010.jpeg)
+![](media/image10.jpeg)
 
 **2 classes (With no object)** 2-D plot of the dataset: 
 
-![](media/image011.jpeg)
+![](media/image11.jpeg)
 
 Accuracy: 
 
-![](media/image012.jpeg)
+![](media/image12.jpeg)
